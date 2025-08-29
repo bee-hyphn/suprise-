@@ -1,0 +1,27 @@
+Website_Webpage
+Webpage-collection of electronic doccuments provided by the website to internet user.
+Form: text, pictures, audio, vedio, etc.
+Hypertext marlup language-HTML-code of webpage
+Webpage/Hypertext page
+Traverse from one hypertext page via link to other, this link is hyperlink.
+Hypermedia-non linear media of information.
+Includes: graphics, audio, vedio, plain text, hyperlinks, etc. 
+Collection of webpage-Website
+
+THINGS TO REMEMBER: Hypertext or webpage is collection of electronic doccument desgined by using HHTML(hypertext markup language) which consists text, graphics, audio, vedio, animation, etc.
+ 
+ Simple website-non interactive website: static website 
+Information to users as exactly stored.
+Includes: text, graphics, audio and vedio.
+Audio and vedio are non-intractive.
+It's periodically updated manually.
+Uses- HTML,  Cascading style sheet (CSS) only.
+
+Dynamic website-interactive website
+-capblity of content refreshment
+after each view<!--(like qunatum particles)-->
+controlled via server where it is stored in.
+web application, web app aslo lie under this.
+developed using: javascript(js), Perl, ASP, PHP, JSP, Java, etc.
+
+THINGD TO REMEMBER: simple non intractive website-static website whic delivers the information to the user exactly as stored whereas dynamic website is an interactive website capale to modify or display the information as per user's need.
